@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm TheChicken14, and I like to code (duh) mainly in JS and Vue 😌 ✨ 
 
-- 🔭 I’m currently working on [URL-Shortie](https://github.com/TheChicken14/URL-Shortie) and [Crackheadbot](https://github.com/TheChicken14/Crackheadbot)
+- 🔭 I’m currently working on [Crackheadbot](https://github.com/TheChicken14/Crackheadbot) and [skeppy-bot-v2](https://github.com/TheChicken14/skeppy-bot-v2)
 - 😄 Pronouns: He/him
 - ✨ 🏳️‍🌈 ✨  
 
