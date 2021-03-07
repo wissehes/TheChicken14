@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm TheChicken14, and I like to code (duh) mainly in JS and React 😌 ✨ 
 
-- 🔭 I'm currently working on an app called Remember Me for children that lost one of their parents. In the app they can create a profile and fill out lists with questions, kinda like a diary.
+- 🔭 I'm currently working on an app called Remember Me for children that lost one of their parents. In the app they can create a profile and fill out lists with questions, kinda like a diary. Techstack: React Native, Expo, Node JS, Hapi and MongoDB
 - 😄 Pronouns: He/him
 - ✨ 🏳️‍🌈 ✨  
 
