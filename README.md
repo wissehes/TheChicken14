@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm TheChicken14, and I like to code (duh) mainly in JS and Vue 😌 ✨ 
 
-- 🔭 I’m currently working on [Crackheadbot](https://github.com/TheChicken14/Crackheadbot) and [skeppy-bot-v2](https://github.com/TheChicken14/skeppy-bot-v2)
+- 🔭 I'm currently working on an app called Remember Me for children that lost one of their parents. In the app they can create a profile and fill out lists with questions, kinda like a diary.
 - 😄 Pronouns: He/him
 - ✨ 🏳️‍🌈 ✨  
 
