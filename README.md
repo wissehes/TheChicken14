@@ -1,4 +1,4 @@
-### Hi there 👋 I'm TheChicken14, and I like to code (duh) mainly in JS and Vue 😌 ✨ 
+### Hi there 👋 I'm TheChicken14, and I like to code (duh) mainly in JS and React 😌 ✨ 
 
 - 🔭 I'm currently working on an app called Remember Me for children that lost one of their parents. In the app they can create a profile and fill out lists with questions, kinda like a diary.
 - 😄 Pronouns: He/him
