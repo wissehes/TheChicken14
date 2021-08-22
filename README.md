@@ -1,7 +1,7 @@
-### Hi there 👋 I'm TheChicken14, and I like to code (duh) mainly in JS and React 😌 ✨ 
+### Hi there I'm Wisse :)
 
-- 🔭 I'm currently working on an app called Remember Me for children that lost one of their parents. In the app they can create a profile and fill out lists with questions, kinda like a diary. Techstack: React Native, Expo, Node JS, Hapi and MongoDB
-- 😄 Pronouns: He/him
+- 🔭 I'm currently learning Swift and SwiftUI by creating an app that lets us keep track of our cat's food
+- 👤 Pronouns: He/him
 - ✨ 🏳️‍🌈 ✨  
 
 <p>
